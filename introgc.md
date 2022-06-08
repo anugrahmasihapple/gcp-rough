@@ -32,7 +32,7 @@ Cloud-computing providers offer their services according to different models, of
 ## Platform as a Service (PaaS), and
 ## Software as a Service (SaaS)
 
-<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/iaas.png">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcmain1.jpeg">
 
 
 # IAAS 
