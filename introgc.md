@@ -87,5 +87,5 @@ And I don’t think in the recent years, Google’s server has gone down. It’s
 
 So now look at some of the features of GCP what really gives it an upper hand over other vendors.
 
-<img src="https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcfeatures.png">
 
