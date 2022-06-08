@@ -1,9 +1,10 @@
-# 1.What is Google Cloud Platform (GCP)?
-# 2.What is Cloud Computing?
-# 3.Why Google Cloud Platform?
-# 4.GCP Regions and Zones
-# 5.Google Cloud Platform Services
-# 6.Creating a Free Tier GCP Account
+# Topics
+## 1.What is Google Cloud Platform (GCP)?
+## 2.What is Cloud Computing?
+## 3.Why Google Cloud Platform?
+## 4.GCP Regions and Zones
+## 5.Google Cloud Platform Services
+## 6.Creating a Free Tier GCP Account
 
 
 
