@@ -104,12 +104,12 @@ Google Cloud Platform services are available in various locations across North A
 
 Google offers a wide range of Services. Following are the major Google Cloud Services:
 
-Compute
-Networking
-Storage and Databases
-Big Data
-Machine Learning
-Identity & Security
-Management and Developer Tools
+### Compute
+### Networking
+### Storage and Databases
+### Big Data
+### Machine Learning
+### Identity & Security
+### Management and Developer Tools
 
-<img src="">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcservices.png">
