@@ -8,7 +8,7 @@
 
 
 ##screenshort
-<a href = "https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gc2.png">intro</a>
+["https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gc2.png"]
 
 What is Google Cloud Platform (GCP)?
 
