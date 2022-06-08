@@ -105,13 +105,13 @@ Google Cloud Platform services are available in various locations across North A
 
 Google offers a wide range of Services. Following are the major Google Cloud Services:
 
-### Compute
-### Networking
-### Storage and Databases
-### Big Data
-### Machine Learning
-### Identity & Security
-### Management and Developer Tools
+####  1.Compute
+####  2.Networking
+####  3.Storage and Databases
+####  4.Big Data
+####  5.Machine Learning
+####  6.Identity & Security
+####  7.Management and Developer Tools
 
 <img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcservices.png">
 
@@ -125,8 +125,8 @@ and the option to deploy your code directly or via containers.
 
 The Storage domain includes services related to data storage, it includes the following services
 
-#### Google Cloud Storage
-#### Cloud SQL
-#### Cloud Bigtable
-#### Google Cloud Datastore
-#### Persistent Disk
+#### 1.Google Cloud Storage
+#### 2.Cloud SQL
+#### 3.Cloud Bigtable
+#### 4.Google Cloud Datastore
+#### 5.Persistent Disk
