@@ -32,7 +32,7 @@ Cloud-computing providers offer their services according to different models, of
 ## Platform as a Service (PaaS), and
 ## Software as a Service (SaaS)
 
-<img src="https://www.weclapp.com/en/cloud-computing/">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/iaas.png">
 
 
 # IAAS 
@@ -46,7 +46,7 @@ All this is challenging to scale when demand spikes or business grows. Enterpris
 ### IaaS defined
  IaaS is the on-demand availability of almost infinitely scalable computing resources as services over the internet. It eliminates the need for enterprises to procure, configure, or manage infrastructure themselves, and they only pay for what they use.
 
-<img src="https://www.weclapp.com/en/cloud-computing/">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/paas.png">
 
 # PAAS
 Platform as a Service, also known as PaaS, is a type of cloud computing service model that offers a flexible, scalable cloud platform to develop, deploy, run, and manage apps. PaaS provides everything developers need for application development without the headaches of updating the operating system and development tools or maintaining hardware. Instead, the entire PaaS environment—or platform—is delivered by a third-party service provider via the cloud.  
@@ -58,7 +58,7 @@ The result is simpler, faster, and secure app development that gives developers 
 ### PaaS defined
 Platform as a Service (PaaS) is a complete cloud environment that includes everything developers need to build, run, and manage applications—from servers and operating systems to all the networking, storage, middleware, tools, and more.
 
-<img src="https://www.weclapp.com/en/cloud-computing/">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/paas.png">
 
 
 ## SAAS
@@ -68,7 +68,7 @@ Software as a service (or SaaS) is a way of delivering applications over the Int
 SaaS applications are sometimes called Web-based software, on-demand software, or hosted software. Whatever the name, SaaS applications run on a SaaS provider’s servers. The provider manages access to the application, including security, availability, and performance.
 
 
-<img src="https://www.weclapp.com/en/cloud-computing/">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/saas.png">
 
 
 ### SaaS defined
