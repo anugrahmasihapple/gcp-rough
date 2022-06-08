@@ -46,7 +46,7 @@ All this is challenging to scale when demand spikes or business grows. Enterpris
 ### IaaS defined
  IaaS is the on-demand availability of almost infinitely scalable computing resources as services over the internet. It eliminates the need for enterprises to procure, configure, or manage infrastructure themselves, and they only pay for what they use.
 
-<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/paas.png">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/iaas.png">
 
 # PAAS
 Platform as a Service, also known as PaaS, is a type of cloud computing service model that offers a flexible, scalable cloud platform to develop, deploy, run, and manage apps. PaaS provides everything developers need for application development without the headaches of updating the operating system and development tools or maintaining hardware. Instead, the entire PaaS environment—or platform—is delivered by a third-party service provider via the cloud.  
