@@ -76,3 +76,16 @@ A good way to understand the SaaS model is by thinking of a bank, which protects
 
 A “bank” meets the key characteristics of the SaaS model
 
+
+
+
+## 3.Why Google Cloud Platform?
+
+Now that you have a brief idea of What is Google Cloud Platform and Cloud Computing, let’s understand why one must go for it. Google Cloud Platform, is a suite of cloud computing services that run on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Photos and YouTube. We all know how big is the database of Gmail, Youtube and Google Search.
+
+And I don’t think in the recent years, Google’s server has gone down. It’s one of the biggest in the world, so it seems an obvious choice, to trust them, Right?
+
+So now look at some of the features of GCP what really gives it an upper hand over other vendors.
+
+<img src="https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm">
+
