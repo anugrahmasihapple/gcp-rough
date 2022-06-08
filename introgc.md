@@ -8,7 +8,7 @@
 
 
 ##screenshort
-<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gc2.png">fghj</a>
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gc2.png"  background-color:'white'></a>
 
 # What is Google Cloud Platform (GCP)?
 
