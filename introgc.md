@@ -16,3 +16,10 @@ Google Cloud Platform is a set of Computing, Networking, Storage, Big Data, Mach
 
 
 <img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcintro.png)">
+
+
+Cloud-computing providers offer their services according to different models, of which the three standard models per NIST (National Institute of Standards and Technology ) are :
+
+Infrastructure as a Service (IaaS)
+Platform as a Service (PaaS), and
+Software as a Service (SaaS)
