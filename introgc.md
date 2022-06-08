@@ -89,3 +89,11 @@ So now look at some of the features of GCP what really gives it an upper hand ov
 
 <img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcfeatures.png">
 
+
+
+## 4.GCP Regions and Zones
+
+Google Cloud Platform services are available in various locations across North America, South America, Europe, Asia, and Australia. These locations are divided into regions and zones. You can choose where to locate your applications to meet your latency, availability and durability requirements.
+
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcrisions.png">
+
