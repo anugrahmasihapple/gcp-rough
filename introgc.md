@@ -31,3 +31,8 @@ Cloud-computing providers offer their services according to different models, of
 ## Infrastructure as a Service (IaaS)
 ## Platform as a Service (PaaS), and
 ## Software as a Service (SaaS)
+
+<img src="https://www.weclapp.com/en/cloud-computing/">
+
+
+
