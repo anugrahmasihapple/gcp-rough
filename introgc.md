@@ -26,7 +26,8 @@ Cloud computing allows companies to avoid or minimize up-front IT infrastructure
 <img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcintro.png">
 
 
-Cloud-computing providers offer their services according to different models, of which the three standard models per NIST (National Institute of Standards and Technology ) are :
+Cloud-computing providers offer their services according to different models, of which the three standard models per NIST (National Institute of Standards and Technology ) are:
+
 
 ## Infrastructure as a Service (IaaS)
 ## Platform as a Service (PaaS), and
@@ -119,3 +120,13 @@ Google offers a wide range of Services. Following are the major Google Cloud Ser
 GCP provides a scalable range of computing options you can tailor to match your needs. It provides highly customizable virtual machines. 
 and the option to deploy your code directly or via containers.
 
+
+## Storage and Databases: 
+
+The Storage domain includes services related to data storage, it includes the following services
+
+#### Google Cloud Storage
+#### Cloud SQL
+#### Cloud Bigtable
+#### Google Cloud Datastore
+#### Persistent Disk
