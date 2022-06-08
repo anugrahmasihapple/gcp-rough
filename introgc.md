@@ -15,7 +15,7 @@
 Google Cloud Platform is a set of Computing, Networking, Storage, Big Data, Machine Learning and Management services provided by Google that runs on the same Cloud infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Photos and YouTube.
 
 
-<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcintro.png)">
+<img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcintro.png">
 
 
 Cloud-computing providers offer their services according to different models, of which the three standard models per NIST (National Institute of Standards and Technology ) are :
