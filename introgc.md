@@ -91,7 +91,7 @@ So now look at some of the features of GCP what really gives it an upper hand ov
 
 
 
-## 4.GCP Regions and Zones
+# 4.GCP Regions and Zones
 
 Google Cloud Platform services are available in various locations across North America, South America, Europe, Asia, and Australia. These locations are divided into regions and zones. You can choose where to locate your applications to meet your latency, availability and durability requirements.
 
@@ -99,7 +99,7 @@ Google Cloud Platform services are available in various locations across North A
 
 
 
-## 5.Google Cloud Platform Services
+# 5.Google Cloud Platform Services
 
 
 Google offers a wide range of Services. Following are the major Google Cloud Services:
@@ -113,3 +113,9 @@ Google offers a wide range of Services. Following are the major Google Cloud Ser
 ### Management and Developer Tools
 
 <img src="https://github.com/anugrahmasihapple/gcp-rough/blob/main/gcimg/gcservices.png">
+
+## Compute:
+
+GCP provides a scalable range of computing options you can tailor to match your needs. It provides highly customizable virtual machines. 
+and the option to deploy your code directly or via containers.
+
